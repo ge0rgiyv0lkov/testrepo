@@ -1,1 +1,1 @@
-print("Hello, world") # comment_1
+print("Hello, world") # коментарий 1
